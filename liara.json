@@ -1,0 +1,8 @@
+{
+  "platform": "python",
+  "port": 8000,
+  "python": {
+    "version": "3.11"
+  },
+  "command": "python3 start.py"
+}

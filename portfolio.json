@@ -1,0 +1,72 @@
+{
+  "balance": 10540.5,
+  "active_trades": [
+    {
+      "id": 1721692800000,
+      "symbol": "SOL/USDT",
+      "side": "BUY",
+      "entry_price": 142.5,
+      "original_sl": 139.0,
+      "sl": 142.5,
+      "tp1": 146.0,
+      "tp2": 149.5,
+      "tp3": 153.0,
+      "highest_tp_reached": 1,
+      "qty": 30.0,
+      "notional_value": 4275.0,
+      "open_time": "2026-07-23 04:10:12",
+      "reason": "\u062a\u0642\u0627\u0637\u0639 \u0637\u0644\u0627\u06cc\u06cc \u0633\u0646\u06a9\u0648\u0627\u0633\u067e\u0646 \u0622 \u0648 \u0628 \u0642\u06cc\u0645\u062a \u0628\u0627\u0644\u0627\u06cc \u0645\u06cc\u0627\u0646\u06af\u06cc\u0646 \u06f2\u06f0\u06f0.",
+      "current_price": 147.2,
+      "pnl": 141.0,
+      "pnl_percent": 3.3
+    }
+  ],
+  "completed_trades": [
+    {
+      "id": 1721520000000,
+      "symbol": "XAU/USD",
+      "side": "BUY",
+      "entry_price": 2415.5,
+      "original_sl": 2398.0,
+      "sl": 2450.5,
+      "tp1": 2433.0,
+      "tp2": 2450.5,
+      "tp3": 2468.0,
+      "highest_tp_reached": 3,
+      "qty": 10.0,
+      "notional_value": 24155.0,
+      "open_time": "2026-07-21 14:30:22",
+      "reason": "\u0633\u06cc\u06af\u0646\u0627\u0644 \u0637\u0644\u0627\u06cc\u06cc \u062e\u0631\u06cc\u062f \u0637\u0644\u0627.",
+      "current_price": 2468.0,
+      "pnl": 525.0,
+      "pnl_percent": 2.17,
+      "close_price": 2468.0,
+      "close_time": "2026-07-21 18:45:10",
+      "status": "CLOSED",
+      "close_reason": "TAKE PROFIT 3 (FINAL)"
+    },
+    {
+      "id": 1721606400000,
+      "symbol": "EUR/USD",
+      "side": "SELL",
+      "entry_price": 1.085,
+      "original_sl": 1.091,
+      "sl": 1.073,
+      "tp1": 1.079,
+      "tp2": 1.073,
+      "tp3": 1.067,
+      "highest_tp_reached": 3,
+      "qty": 10000.0,
+      "notional_value": 10850.0,
+      "open_time": "2026-07-22 09:15:00",
+      "reason": "\u0633\u06cc\u06af\u0646\u0627\u0644 \u0631\u06cc\u0632\u0634\u06cc \u06cc\u0648\u0631\u0648.",
+      "current_price": 1.067,
+      "pnl": 180.0,
+      "pnl_percent": 1.66,
+      "close_price": 1.067,
+      "close_time": "2026-07-22 15:30:00",
+      "status": "CLOSED",
+      "close_reason": "TAKE PROFIT 3 (FINAL)"
+    }
+  ]
+}
